@@ -1,0 +1,55 @@
+{
+  "organizations": [
+    {
+      "org_id": 1,
+      "name": "Bharatiya Kala Kendra",
+      "city": "Delhi",
+      "events": [
+        {
+          "event_id": 101,
+          "title": "Kathak Dance Recital",
+          "date": "2025-07-15",
+          "duration_hours": 2
+        },
+        {
+          "event_id": 102,
+          "title": "Hindustani Classical Concert",
+          "date": "2025-08-10",
+          "duration_hours": 3
+        }
+      ]
+    },
+    {
+      "org_id": 2,
+      "name": "Nritya Academy",
+      "city": "Mumbai",
+      "events": [
+        {
+          "event_id": 201,
+          "title": "Bharatanatyam Performance",
+          "date": "2025-06-20",
+          "duration_hours": 2.5
+        },
+        {
+          "event_id": 202,
+          "title": "Odissi Workshop",
+          "date": "2025-09-05",
+          "duration_hours": 4
+        }
+      ]
+    },
+    {
+      "org_id": 3,
+      "name": "Sangeet Natak Akademi",
+      "city": "Chennai",
+      "events": [
+        {
+          "event_id": 301,
+          "title": "Carnatic Music Festival",
+          "date": "2025-10-12",
+          "duration_hours": 5
+        }
+      ]
+    }
+  ]
+}

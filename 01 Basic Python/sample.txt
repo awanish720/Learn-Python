@@ -1,0 +1,4 @@
+Python is a high-level, interpreted, and general-purpose programming language known for its simplicity and readability. 
+It was created by Guido van Rossum and released in 1991.
+Added via r+ modeAppended using append mode ('a')
+Appended using a+ mode
